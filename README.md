@@ -2,7 +2,7 @@
   <h2 align="center"><strong>ITA-MDT:<br> Image-Timestep-Adaptive Masked Diffusion Transformer Framework<br>for Image-Based Virtual Try-On</strong></h2>
 
 <p align="center">
-    <a href="http://sanctusfactory.com/family_02.php">Ji Woo Hong</a>,
+    <a href="https://jiwoohong93.github.io/">Ji Woo Hong</a>,
     <a href="https://triton99.github.io/">Tri Ton</a>,
     <a href="https://trungpx.github.io/">Pham X. Trung</a>,
     <a href="https://kookie12.github.io/">Gwanhyeong Koo</a>,
